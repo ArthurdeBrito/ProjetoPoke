@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    border: 2px solid black;
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+
+    
+}
+
+header nav{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+nav{
+    justify-content: flex-end;
+color: white;
+}
+p{
+    padding: 20px;
+    text-align: justify;
+}
+
+h1,h2,img{
+padding: 20px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
